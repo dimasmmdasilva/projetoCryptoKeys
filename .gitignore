@@ -1,1 +1,4 @@
 myvenv/
+node_modules/
+cypress/
+.vscode/
